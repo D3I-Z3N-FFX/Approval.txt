@@ -3,7 +3,7 @@ THIS COMMAND OR TOOLS IS ONLY FOR EDUCATIONAL PURPOSES IF YOU MISUSE THIS THEN M
 
 INSTALL BASICS MODULE &RESOURCES ✅👇
 pkg update
-pkh upgrade
+pkg upgrade
 pkg install git
 pkg install pip
 pkg install pip2
